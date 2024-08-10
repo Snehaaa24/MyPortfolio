@@ -71,7 +71,7 @@
     cursor: pointer;
 }
 .description{   
-    max-width: 45ch;
+    max-width: 40ch;
 }
 .info{
     display: flex;
