@@ -9,14 +9,8 @@
     .hero{
         max-width: 200px;
         margin-top: 100px;
-        margin-bottom: -20px;
-    }
-    h2{
-        margin-top: -40px;
     }
     span{
-        margin-top: -30px;
-        margin-bottom: -30px;
         display: flex;
         gap: 25px;
         justify-content: center;
@@ -32,7 +26,6 @@
         align-self: center;
     }
     button{
-        margin-top: -30px;
         background-color: var(--btn-color);
         color: var(--btn-text-color);
         text-underline-position: none;
