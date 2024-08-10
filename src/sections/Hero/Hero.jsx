@@ -32,9 +32,7 @@ function Hero() {
         />
       </div>
       <div className={styles.info}>
-        <h1>
-          Sneha <br /> Nair
-        </h1>
+        <h1>Sneha Nair</h1>
         <h2>Full Stack Developer</h2>
         <span>
           <a href="https://github.com/Snehaaa24" target="_blank">
